@@ -1,0 +1,4 @@
+Hello! This is my first Git file to be uploaded in Git hub. 
+I want to master this for me to be hired in KINGSLAND LAND PH. Stay tuned to my progress.
+
+First Step is to add file in git repository.
